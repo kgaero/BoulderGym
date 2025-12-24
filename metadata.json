@@ -1,0 +1,7 @@
+{
+  "name": "Summit - AI Performance Concierge",
+  "description": "A voice-enabled AI concierge for a high-end gym in Boulder, CO, using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
